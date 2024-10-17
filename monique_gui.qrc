@@ -1,0 +1,26 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/res">
+    <file alias="melb_inst_splash.png">src/images/MI-Splash-854px.png</file>
+    <file alias="boot_warning.png">src/images/Cal-Screens-Warnings-854px.png</file>
+    <file alias="monique_logo.png">src/images/DELIA-SCREEN-logo-GUI-854px.png</file>
+    <file alias="hourglass-animated.gif">src/images/hourglass-animated.gif</file>
+    <file alias="12-note-icon.png">src/images/12-note-icon.png</file>
+    <file alias="0-voice-active-layer.png">src/images/0-voice-active-layer.png</file>
+    <file alias="1-voice-active-layer.png">src/images/1-voice-active-layer.png</file>
+    <file alias="2-voice-active-layer.png">src/images/2-voice-active-layer.png</file>
+    <file alias="3-voice-active-layer.png">src/images/3-voice-active-layer.png</file>
+    <file alias="4-voice-active-layer.png">src/images/4-voice-active-layer.png</file>
+    <file alias="5-voice-active-layer.png">src/images/5-voice-active-layer.png</file>
+    <file alias="6-voice-active-layer.png">src/images/6-voice-active-layer.png</file>
+    <file alias="0-voice-inactive-layer.png">src/images/0-voice-inactive-layer.png</file>
+    <file alias="1-voice-inactive-layer.png">src/images/1-voice-inactive-layer.png</file>
+    <file alias="2-voice-inactive-layer.png">src/images/2-voice-inactive-layer.png</file>
+    <file alias="3-voice-inactive-layer.png">src/images/3-voice-inactive-layer.png</file>
+    <file alias="4-voice-inactive-layer.png">src/images/4-voice-inactive-layer.png</file>
+    <file alias="5-voice-inactive-layer.png">src/images/5-voice-inactive-layer.png</file>
+    <file alias="6-voice-inactive-layer.png">src/images/6-voice-inactive-layer.png</file>
+    <file alias="DSEG7Classic-BoldItalic.ttf">src/fonts/DSEG7Classic-BoldItalic.ttf</file>
+    <file alias="OCR-A.ttf">src/fonts/OCR-A.ttf</file>
+    <file alias="OCR-B.ttf">src/fonts/OCRBStd.otf</file>
+</qresource>
+</RCC>
